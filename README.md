@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Nahide Sena 👋
 
 - 🔭 I’m currently working on Java, SQL
 - 🌱 I’m currently learning C#
