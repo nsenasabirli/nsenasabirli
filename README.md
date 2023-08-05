@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on Java
 - 🌱 I’m currently learning Swift
 - 📫 How to reach me: nsenasabirli@gmail.com
-- www.linkedin.com/in/nsenasabirli/
+- [www.linkedin.com/in/nsenasabirli/](https://www.linkedin.com/in/nsenasabirli/)
   
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=nsenasabirli&show_icons=true&theme=gradient) 
 
