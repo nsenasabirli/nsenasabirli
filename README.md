@@ -5,7 +5,6 @@
 - 🔭 I’m currently working on Java
 - 🌱 I’m currently learning Flutter & Dart and Swift
 - 📫 How to reach me: nsenasabirli@gmail.com
-- https://www.linkedin.com/in/nsenasabirli/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
