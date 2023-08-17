@@ -7,6 +7,6 @@
 - 📫 How to reach me: nsenasabirli@gmail.com
 - https://www.linkedin.com/in/nsenasabirli/
 
-  ![Github stats 1](https://github-readme-stats.vercel.app/api?username=nsenasabirli&show_icons=true&theme=gradient) 
+  ![nsenasabirli's github stats](https://github-readme-stats.vercel.app/api?usernname=nsenasabirli&hide=contribs,prs)
 
 
