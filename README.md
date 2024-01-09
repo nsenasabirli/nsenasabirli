@@ -1,6 +1,6 @@
 ### Hi, I'm Nahide Sena 👋
 
-<img src="https://i.gifer.com/7IjS.gif" width="auto">
+
 - 🔭 I’m currently working on C#
 - 🌱 I’m currently learning Swift
 - 📫 How to reach me: nsenasabirli@gmail.com
