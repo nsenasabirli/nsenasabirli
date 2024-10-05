@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on C#
 - 🌱 I’m currently learning Swift
-- 📫 How to reach me: nsenasabirli@hotmail.com
+- 📫 How to reach me: nsenasabirli@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
