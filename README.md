@@ -1,7 +1,7 @@
 ### Hi, I'm Nahide Sena 👋
 
 
-- 🔭 I’m currently working on C#
+- 🔭 I’m currently working on React
 - 🌱 I’m currently learning Swift
 - 📫 How to reach me: nsenasabirli@gmail.com
 
